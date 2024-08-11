@@ -1,5 +1,5 @@
 ![Technology-animation-gif](https://github.com/aseelbahakeem/aseelbahakeem/blob/main/headergif.gif)
-<h1 align="center">## Welcome to My GitHub Profile! 👋</h1>
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
 
 🔍 I enjoy exploring new technologies and developing innovative software solutions that can have a positive impact.\
