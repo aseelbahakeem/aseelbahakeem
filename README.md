@@ -1,4 +1,4 @@
-![alt-text](https://github.com/aseelbahakeem/aseelbahakeem/blob/main/3129576-uhd_3840_2160_30fps.mp4)
+![Technology-animation-gif](https://github.com/aseelbahakeem/aseelbahakeem/blob/main/technologygifheader.mov)
 ## Welcome to My GitHub Profile! 👋
 
 🔍 I enjoy exploring new technologies and developing innovative software solutions that can have a positive impact.\
