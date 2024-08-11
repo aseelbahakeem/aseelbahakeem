@@ -8,3 +8,4 @@
 🌐 Visit my personal website (https://aseelbahakeemWebsite.com) to learn more about my journey. Feedback and suggestions are always welcome!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
