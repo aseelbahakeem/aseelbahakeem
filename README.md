@@ -8,4 +8,4 @@
 📬 You can contact me via LinkedIn, and I'll try to respond as soon as possible.\
 🌐 Visit my personal website (https://aseelbahakeemWebsite.com) to learn more about my journey. Feedback and suggestions are always welcome!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseelbahakeem&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseelbahakeem&layout=compact) 
