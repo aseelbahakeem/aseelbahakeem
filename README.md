@@ -1,5 +1,6 @@
 ![Technology-animation-gif](https://github.com/aseelbahakeem/aseelbahakeem/blob/main/headergif.gif)
-## Welcome to My GitHub Profile! 👋
+<h1 align="center">## Welcome to My GitHub Profile! 👋</h1>
+
 
 🔍 I enjoy exploring new technologies and developing innovative software solutions that can have a positive impact.\
 🎓 I recently graduated with a degree in Computer Science, focusing on Software Engineering.\
