@@ -1,9 +1,6 @@
 ![Technology-animation-gif](https://github.com/aseelbahakeem/aseelbahakeem/blob/main/headergif.gif)
 <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
 
-🎓 I recently graduated with a degree in Computer Science, focusing on Software Engineering and Secure Solutions.\
-🤝 Feel free to reach out for collaboration opportunities, interesting discussions, or if you just want to chat about tech.\
-📬 You can contact me via LinkedIn, and I'll try to respond as soon as possible.\
-🌐 Visit my personal website (https://aseelbahakeemWebsite.com) to learn more about my journey. Feedback and suggestions are always welcome!
+I graduated with a degree in Computer Science 🎓, with an interest in Software Engineering, AI, and Secure Solutions. I use this space to share my work, contribute to open-source projects, and explore new ideas in tech. If you want to discuss something, collaborate, or have any questions, feel free to reach out on LinkedIn—I’ll get back to you when I can. You can also check out my website (aseelbahakeemWebsite.com) to see what I’ve been working on. Feedback and suggestions are always welcome!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseelbahakeem&layout=compact) 
